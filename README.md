@@ -207,7 +207,7 @@ Is he spreading fake news or fighting misinformation?
 <table width="75%">
     <tr>
         <video width="320" height="240" controls>
-            <source src="./videos/SaveTwitter.Net_1137065304050130944\(480p\).mp4" type="video/mp4">
+            <source src="./video/lkfcVideo.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
     </tr>
